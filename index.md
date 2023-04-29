@@ -25,7 +25,7 @@ answers. Project from Codecademy.
 
 Module for doing mathematics with quaternions, the 4-dimensional analogue of complex numbers.
 
-```python3
+```python
 >>> q1, q2 = Quaternion(1, -2, -3, 4), Quaternion(1, 4, -3, -2)
 >>> print(q1)
 (1 - 2i - 3j + 4k)
