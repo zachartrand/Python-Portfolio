@@ -10,9 +10,9 @@ of the track has many sustained chords, including a dissonant
 stacked chord, finding the notes of which was the motivation of
 this project.
 
-![Spectrogram](./images/spectrogram_chords.png)
+<img src="./images/spectrogram_chords.png" width="50%" alt="Spectrogram">
 
-![Fourier spectrum](./images/chord3_spectrum_160_1000Hz.png)
+<img src="./images/chord3_spectrum_160_1000Hz.png" width="50%" alt="Fourier spectrum">
 
 ### Project 2: [Jeopardy Project](https://github.com/zachartrand/Codecademy/tree/master/Data%20Scientist%20Track/Hands%20On%20with%20Pandas/Jeopardy%20Project)
 
@@ -25,7 +25,7 @@ answers. Project from Codecademy.
 
 Module for doing mathematics with quaternions, the 4-dimensional analogue of complex numbers.
 
-```python 3
+```python3
 >>> q1, q2 = Quaternion(1, -2, -3, 4), Quaternion(1, 4, -3, -2)
 >>> print(q1)
 (1 - 2i - 3j + 4k)
@@ -53,7 +53,7 @@ Module for doing mathematics with quaternions, the 4-dimensional analogue of com
 
 A simple chess game made with PyGame.
 
-![Chess](./images/chess-screenshot.png)
+<img src="./images/chess-screenshot.png" width="50%" alt="Chess">
 
 ### Project 3: [Playing Cards](https://github.com/zachartrand/Playing-Cards)
 
