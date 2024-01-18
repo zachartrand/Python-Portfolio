@@ -14,7 +14,16 @@ this project.
 
 <img src="./images/chord3_spectrum_160_1000Hz.png" width="50%" alt="Fourier spectrum">
 
-### Project 2: [Jeopardy Project](https://github.com/zachartrand/Codecademy/tree/master/Data%20Scientist%20Track/Hands%20On%20with%20Pandas/Jeopardy%20Project)
+### Project 2: [Analysis of the Most Streamed Spotify Songs of 2023](https://github.com/zachartrand/Data-Analysis-Spotify-2023/blob/master/spotify2023.ipynb)
+
+This project looks at the top streamed songs on Spotify in 2023.
+The analysis includes working through data with issues and coming up
+with workaround solutions to analyzing it, looking at data distributions,
+and testing a relationship between two metrics.
+
+<img src="https://raw.githubusercontent.com/zachartrand/Data-Analysis-Spotify-2023/master/graphs/key_mode_bar.png" width="60%" alt="Distribution of keys and modes">
+
+### Project 3: [Jeopardy Project](https://github.com/zachartrand/Codecademy/tree/master/Data%20Scientist%20Track/Hands%20On%20with%20Pandas/Jeopardy%20Project)
 
 Investigation of a dataset of over 216,000 Jeopardy! questions and
 answers. Project from Codecademy.
